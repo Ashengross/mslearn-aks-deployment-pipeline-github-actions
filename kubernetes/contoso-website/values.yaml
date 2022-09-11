@@ -1,0 +1,7 @@
+image:
+  repository: <acr-name>
+  name: contoso-website
+  tag: latest
+
+dns:
+  name: 6e0b989c732c4154b1f6.westeurope.aksapp.io
